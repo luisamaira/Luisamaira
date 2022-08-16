@@ -2,7 +2,7 @@
 
 
 - 📚 Estudando Tecnologia em Sistemas para Internet
-- 📧 Contate-me em luisa.souza@estudante.ifgoiano.edu.br
+- 📧 Contate-me em: luisa.souza@estudante.ifgoiano.edu.br
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
